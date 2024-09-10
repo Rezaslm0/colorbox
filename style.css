@@ -1,0 +1,14 @@
+.colorbox {
+    width: 100px;
+    height: 100px;
+    background-color: lightgray; 
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transition: background-color 0.3s ease, transform 0.2s ease; 
+}
+
+body {
+    margin: 0;
+    overflow: hidden; 
+}
